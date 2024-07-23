@@ -6,11 +6,11 @@ The assignment assumes that you work at a company that specializes in student lo
 The business team has given you a CSV file that contains information about previous student loan recipients. With your knowledge of machine learning and neural networks, you decide to use the features in the provided dataset to create a model that will predict the likelihood that an applicant will repay their student loans. The CSV file contains information about these students, such as their credit ranking.
 
 ## Code Source
-The code location is: [Click Here to view](https://github.com/jaidevkler/https://github.com/jaidevkler/neural-network-challenge-1)
+The code location is: [Click Here to view](https://github.com/jaidevkler/neural-network-challenge-1)
 
 ## Files
 student_loans_with_deep_learning.ipynb [Click here to view](https://github.com/jaidevkler/neural-network-challenge-1/blob/main/student_loans_with_deep_learning.ipynb)<br />
-student_loans.keras [Click here to view](https://github.com/jaidevkler/student_loans.keras)<br />
+student_loans.keras [Click here to view](https://github.com/jaidevkler/neural-network-challenge-1/blob/main/student_loans.keras)<br />
 
 ## How to run the program
 Download the files and then use jupyter notebook or jupyter lab to open the student_loans_with_deep_learning.ipynb file.<br />
